@@ -3,7 +3,7 @@
 The Fetch-and-Render-Data-Exercise was created for MITxPro full stack web development program. </br>
 
 
-<img src= "formPic.png" alt = "Form Pic" width= "200" />
+<img src= "chuckNorrisPic.png" alt = "Form Pic" width= "200" />
 </a>
 
 ## Description:
