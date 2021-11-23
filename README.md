@@ -16,7 +16,7 @@ The Fetch-and-Render-Data-Exercise was created for MITxPro full stack web develo
 </p>
 
 ## Installation:
-<p> You can replicate this project in your favorite code editor and run the program on a server. 
+<p> You can replicate this project in your favorite code editor by running the program on React. Copy and paste the code into your app.js file and volia, Chuck Norris joke generator.   
   
 
 ## Usage:
